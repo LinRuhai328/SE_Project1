@@ -1,0 +1,4 @@
+# Preserve the exact bytes used for the course baseline and original transcripts.
+requirements.md -text
+chat.txt -text
+sources/*.txt -text
