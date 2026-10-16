@@ -1,0 +1,14 @@
+{
+  "requirements.md": {
+    "sha256": "8b18e5473a68d1f2fdef5ae9ba2f0187efaaaab45a5a59465f9be37602c2d672",
+    "bytes": 33777
+  },
+  "chat.txt": {
+    "sha256": "af8f78947c32a3566387ed876f3290d9a73cbec3e59898d056334e7f40fea98e",
+    "bytes": 99895
+  },
+  "report.pdf": {
+    "sha256": "b760249725937cfa15d525b90242277340a31bd5a0690917f5966c647b0d2221",
+    "bytes": 184714
+  }
+}
