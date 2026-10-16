@@ -2,3 +2,5 @@
 requirements.md -text
 chat.txt -text
 sources/*.txt -text
+sources/requirements.ai-first.md -text
+sources/用户指定模板/* -text
