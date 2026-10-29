@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-10-16T15:45:16+08:00",
   "tool": "OpenAI Codex",
-  "model": "gpt-6.1-sol",
+  "model": "gpt-5-codex",
   "student": "李睿豪",
   "student_id": "251220139",
   "client": "雷业成",

@@ -1,4 +1,4 @@
-# Preserve the exact bytes used for the course baseline and original transcripts.
+﻿# Preserve the exact bytes used for the course baseline and original transcripts.
 requirements.md -text
 chat.txt -text
 sources/*.txt -text
@@ -6,5 +6,4 @@ sources/requirements.ai-first.md -text
 sources/用户指定模板/* -text
 sources/课程问答_20261016_补充.md -text
 sources/review-input-20261016/* -text
-TASK.md text eol=crlf
-sources/TASK.original.md -text
+TASK.md -text
