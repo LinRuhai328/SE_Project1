@@ -340,7 +340,7 @@ REQ-007 说个人账本本人确认即生效，REQ-010 又要求另一名审核�
 | 个人仓库地址 | https://github.com/LinRuhai328/SE_Project1 |
 | 分支名称 | lab1-liruihao |
 | lab1-ai-draft 完整提交哈希 | ee1552ade5c588cd062e6d8d7337d708745fcb57 |
-| lab1-final 完整提交哈希 | 6eb72f3820b9a91199c3fbe0b7fd6d99a2780d82 |
+| lab1-final 完整提交哈希 | c4ca4d4b14049bcb2564aca2713d085c4780461b |
 | 需求计数 | 35 条；已确认 32（功能 28、非功能 4）；待确认 3 |
 | 报告生成时间 | 2026-10-29T23:18:37+08:00 |
 
